@@ -9,6 +9,7 @@
 #include <set>
 #include <array>
 #include <queue>
+#include <chrono>
 #include "readNOFF.h"
 #include "compute_function_mls.h"
 

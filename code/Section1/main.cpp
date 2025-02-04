@@ -6,6 +6,7 @@
 #include <Eigen/Sparse>
 #include <iostream>
 #include <vector>
+#include <chrono>
 #include <set>
 #include <array>
 #include <queue>
